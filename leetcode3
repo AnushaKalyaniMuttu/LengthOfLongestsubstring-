@@ -27,3 +27,6 @@ public class Solution {
         return maxLen;
     }
 }
+
+//time Complexity O(n)
+//Space Complexity O(n)
